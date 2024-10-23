@@ -11,17 +11,17 @@
                 currentSlide: 0,
                 slides: [
                     {
-                        image: '/path/to/your-image1.jpg',
+                        image: './three.webp',
                         title: 'Luxury Interior Design',
                         subtitle: 'Creating spaces that inspire and transform'
                     },
                     {
-                        image: '/path/to/your-image2.jpg',
+                        image: './second.webp',
                         title: 'Modern Living Spaces',
                         subtitle: 'Where comfort meets elegance'
                     },
                     {
-                        image: '/path/to/your-image3.jpg',
+                        image: './first.webp',
                         title: 'Exceptional Design',
                         subtitle: 'Crafting unique environments'
                     }
