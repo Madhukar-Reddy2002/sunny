@@ -163,3 +163,7 @@
         .animate-fadeUp {
             animation: fadeUp 1s ease forwards;
         }
+        /* Glassmorphic Background for Mobile Menu */
+.logo{
+    border-color: 2px solid red;
+}
